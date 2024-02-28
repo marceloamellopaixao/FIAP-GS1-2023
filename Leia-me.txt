@@ -1,0 +1,7 @@
+Pitch para Computational Thinking Using Python:
+https://youtu.be/80Kn6jGX7xo
+
+Pitch para Software Design & Total Experience:
+https://youtu.be/i8m8s_q-JOU
+
+Crie uma pasta chamada "banco_dados"
